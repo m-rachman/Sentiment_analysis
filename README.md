@@ -8,9 +8,6 @@ This repository contains a simple sentiment analysis application built with Stre
 - **Sentiment Prediction**: Uses a pre-trained TensorFlow model to predict the sentiment of the input text.
 - **User-Friendly Interface**: Built with Streamlit for an interactive and easy-to-use interface.
 
-## Installation
+## Deployment
 
-To run the application, you need to have Python installed along with the required dependencies. You can install the dependencies using the `requirements.txt` file.
-
-```bash
-pip install -r requirements.txt
+[Link](https://huggingface.co/spaces/rachman/Sentiment_Analysis)
